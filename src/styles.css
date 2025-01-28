@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(to right, yellow, orange);
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+ul {
+  display: inline-block;
+  text-align: left;
+}
